@@ -1,24 +1,24 @@
-### Lost-Island
+# Lost-Island
 
 ## Control
 
-**Moving**
+### Moving
 Arrow keys or  W
               ASD
-**Interacting**
+### Interacting
 SPACE bar
 
-**Open pause menu**
+### Open pause menu
 *In town and house only*
 ESC key
 
-**Quit a puzzle**
+### Quit a puzzle
 ESC key
 
-**Play logic gate puzzle**
+### Play logic gate puzzle
 Click on a logic gate to move them around and move it to a "box" to finish it.
 
-**Play binary puzzle**
+### Play binary puzzle
 To write a number in a "box", click on it.
 
 ## Other
