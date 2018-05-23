@@ -1,0 +1,1 @@
+objInput = instance_position(384, 617, obj_output);

@@ -1,0 +1,1 @@
+thePuzzle = rm_binaryT;

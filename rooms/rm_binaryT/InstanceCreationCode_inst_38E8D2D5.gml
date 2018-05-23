@@ -1,0 +1,1 @@
+box1 = instance_position(514.716, 671.125, obj_box_binary)

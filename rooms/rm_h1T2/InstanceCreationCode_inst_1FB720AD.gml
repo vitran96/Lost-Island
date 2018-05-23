@@ -1,0 +1,1 @@
+objInput = instance_place(625, 553, obj_box);

@@ -1,0 +1,1 @@
+text = "Only one AND gate is needed. And every box must have a gate inside.";

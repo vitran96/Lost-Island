@@ -1,0 +1,1 @@
+text = "An OR gate will give a high output if any of the inputs is high.\nFor example, in a simple lighting circuit with two switches in parallel the lamp will light if either switch is pressed.\nTry dragging the OR gate below into different pattern to see what happen."

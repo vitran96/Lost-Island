@@ -1,0 +1,1 @@
+text = "Find a bookshelf about how to decoding BINARY number.";

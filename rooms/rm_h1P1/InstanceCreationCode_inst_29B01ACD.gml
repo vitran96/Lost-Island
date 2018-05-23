@@ -1,0 +1,1 @@
+text = "Find a bookshelf about \"OR gate\" in this house.";

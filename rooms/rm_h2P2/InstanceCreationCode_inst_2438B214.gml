@@ -1,0 +1,1 @@
+text = "AND gate should not be inserted into the top box. And every box must have a gate inside.";

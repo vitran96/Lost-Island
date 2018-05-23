@@ -1,0 +1,1 @@
+textBox = instance_position(743, 190, obj_hint_text_box1);

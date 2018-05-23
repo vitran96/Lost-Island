@@ -1,0 +1,1 @@
+text = "An AND gate will give a high output only if all of the inputs are high.\nFor example, in a simple lighting circuit with two switches in series the lamp will light only if both switches are pressed.\nTry dragging the AND gate below into different pattern to see what happen."
