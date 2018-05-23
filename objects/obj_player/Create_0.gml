@@ -1,4 +1,4 @@
-spd = 4;
+spd = 3;
 
 //--------Dialogue Stuff
 reset_dialogue_defaults();
