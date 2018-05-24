@@ -1,4 +1,7 @@
 # Lost-Island
+## Import project to Game Maker
+To see the code, please install Game Maker Studio 2 from .[Yoyo Games].(https://www.yoyogames.com/).
+Then, clone this repository and run Lost-Island.yyp
 
 ## Control
 
